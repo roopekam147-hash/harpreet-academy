@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Harpreet Academy | IELTS, PTE &amp; Study Visa Experts Kapurthala</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50 text-slate-800 font-sans antialiased">
+
+  <!-- Top Navigation -->
+  <header class="sticky top-0 z-50 bg-white/95 backdrop-blur border-b border-slate-200">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
+      <div>
+        <h1 class="text-xl font-extrabold text-blue-900 tracking-tight">Harpreet Academy</h1>
+        <p class="text-xs text-slate-500">IELTS • PTE • TOEFL • Study Visa Consultants</p>
+      </div>
+      <nav class="hidden md:flex gap-6 text-sm font-medium text-slate-600">
+        <a href="#courses" class="hover:text-blue-900">Training Courses</a>
+        <a href="#visa" class="hover:text-blue-900">Visa Services</a>
+        <a href="#results" class="hover:text-blue-900">Success Stories</a>
+        <a href="#contact" class="hover:text-blue-900">Location</a>
+      </nav>
+      <a href="https://wa.me/919876543210?text=Hi%20Harpreet%20Academy%2C%20I%20want%20to%20enquire%20about%20IELTS%20classes%20and%20visa%20services."
+         target="_blank"
+         class="bg-green-600 hover:bg-green-700 text-white text-sm font-semibold px-4 py-2 rounded-full shadow transition">
+        Chat on WhatsApp
+      </a>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="bg-gradient-to-br from-blue-900 via-blue-800 to-indigo-900 text-white">
+    <div class="max-w-6xl mx-auto px-4 py-16 md:py-24 text-center">
+      <span class="inline-block bg-blue-500/30 text-blue-200 text-xs font-semibold uppercase tracking-wider px-3 py-1 rounded-full mb-4">
+        Kapurthala • Trusted IELTS &amp; Visa Guidance
+      </span>
+      <h2 class="text-3xl md:text-5xl font-extrabold leading-tight max-w-3xl mx-auto">
+        Achieve 7+ Bands &amp; Fly Abroad for Your Dream Education
+      </h2>
+      <p class="mt-4 text-blue-100 max-w-2xl mx-auto text-base md:text-lg">
+        Expert IELTS &amp; PTE coaching with proven modules, individual speaking sessions, and end-to-end study visa processing for Canada, UK, Australia &amp; Europe.
+      </p>
+      <div class="mt-8 flex flex-col sm:flex-row justify-center gap-4">
+        <a href="https://wa.me/919876543210?text=Hi%2C%20I%20want%20to%20book%20a%20Free%20IELTS%20Demo%20Class."
+           target="_blank"
+           class="bg-green-600 hover:bg-green-500 text-white font-bold px-7 py-3.5 rounded-xl shadow-lg transition">
+          Book Free IELTS Demo Class
+        </a>
+        <a href="https://wa.me/919876543210?text=Hi%2C%20I%20want%20a%20Free%20Study%20Visa%20Assessment."
+           target="_blank"
+           class="bg-white/10 hover:bg-white/20 text-white font-semibold px-7 py-3.5 rounded-xl border border-white/25 transition">
+          Free Visa Assessment
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Highlights Strip -->
+  <section class="max-w-6xl mx-auto px-4 -mt-8">
+    <div class="grid md:grid-cols-3 gap-4">
+      <div class="bg-white p-5 rounded-2xl shadow-sm border border-slate-100">
+        <p class="text-blue-900 font-bold text-sm">Targeted IELTS &amp; PTE Coaching</p>
+        <p class="text-xs text-slate-500 mt-1">Special mock tests, listening labs, and daily personal feedback on writing and speaking.</p>
+      </div>
+      <div class="bg-white p-5 rounded-2xl shadow-sm border border-slate-100">
+        <p class="text-blue-900 font-bold text-sm">100% Transparent Visa File Work</p>
+        <p class="text-xs text-slate-500 mt-1">College selection, offer letters, financial documentation, and visa interview preparation.</p>
+      </div>
+      <div class="bg-white p-5 rounded-2xl shadow-sm border border-slate-100">
+        <p class="text-blue-900 font-bold text-sm">Proven Success Track Record</p>
+        <p class="text-xs text-slate-500 mt-1">Hundreds of students successfully flying abroad every intake with top band scores.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Services & Modules Section (Clickable for WhatsApp) -->
+  <section id="courses" class="max-w-6xl mx-auto px-4 py-16">
+    <div class="text-center mb-10">
+      <h3 class="text-2xl md:text-3xl font-extrabold text-slate-900">Training Programs &amp; Visa Services</h3>
+      <p class="text-slate-600 text-sm mt-2">Tap any service below to enquire directly on WhatsApp</p>
+    </div>
+
+    <div class="grid md:grid-cols-2 gap-8">
+      <!-- Category 1: Language Coaching -->
+      <div class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200/70">
+        <h4 class="text-lg font-bold text-blue-900 border-b pb-2 mb-4">Language &amp; Test Preparation</h4>
+        <ul class="space-y-4 text-sm">
+          <li class="flex justify-between items-start gap-4">
+            <div>
+              <a href="https://wa.me/918146737722?text=Hi%2C%20I%20want%20to%20enquire%20about%20IELTS%20Academic%20and%20General%20Training" target="_blank" class="font-bold text-slate-900 hover:text-green-600 underline">IELTS Academic &amp; General Training</a>
+              <p class="text-slate-500 text-xs">Comprehensive modules covering Reading, Writing, Listening &amp; Speaking</p>
+            </div>
+            <span class="font-bold text-blue-900 whitespace-nowrap">Daily Batches</span>
+          </li>
+          <li class="flex justify-between items-start gap-4">
+            <div>
+              <a href="https://wa.me/919876543210?text=Hi%2C%20I%20want%20to%20enquire%20about%20PTE%20Academic%20Coaching" target="_blank" class="font-bold text-slate-900 hover:text-green-600 underline">PTE Academic Computer-Based Training</a>
+              <p class="text-slate-500 text-xs">High-scoring software practice, templates, and exam tips</p>
+            </div>
+            <span class="font-bold text-blue-900 whitespace-nowrap">Flexible Timings</span>
+          </li>
+          <li class="flex justify-between items-start gap-4">
+            <div>
+              <a href="https://wa.me/919876543210?text=Hi%2C%20I%20want%20to%20enquire%20about%20Spoken%20English%20and%20Personality%20Development" target="_blank" class="font-bold text-slate-900 hover:text-green-600 underline">Spoken English &amp; Interview Prep</a>
+              <p class="text-slate-500 text-xs">Build fluency, vocabulary, and confidence for visa interviews</p>
+            </div>
+            <span class="font-bold text-blue-900 whitespace-nowrap">Special Batch</span>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Category 2: Visa Services -->
+      <div id="visa" class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200/70">
+        <h4 class="text-lg font-bold text-blue-900 border-b pb-2 mb-4">Study Visa &amp; Immigration</h4>
+        <ul class="space-y-4 text-sm">
+          <li class="flex justify-between items-start gap-4">
+            <div>
+              <a href="https://wa.me/919876543210?text=Hi%2C%20I%20want%20to%20enquire%20about%20Canada%20Study%20Visa" target="_blank" class="font-bold text-slate-900 hover:text-green-600 underline">Canada Study Visa &amp; Admission</a>
+              <p class="text-slate-500 text-xs">Top colleges, universities, SDS file processing &amp; scholarship assistance</p>
+            </div>
+            <span class="font-bold text-blue-900 whitespace-nowrap">Expert Guidance</span>
+          </li>
+          <li class="flex justify-between items-start gap-4">
+            <div>
+              <a href="https://wa.me/919876543210?text=Hi%2C%20I%20want%20to%20enquire%20about%20UK%20and%20Australia%20Study%20Visas" target="_blank" class="font-bold text-slate-900 hover:text-green-600 underline">UK, Australia &amp; Europe Study Visas</a>
+              <p class="text-slate-500 text-xs">Seamless university admissions and fast visa documentation</p>
+            </div>
+            <span class="font-bold text-blue-900 whitespace-nowrap">Low Process Fee</span>
+          </li>
+          <li class="flex justify-between items-start gap-4">
+            <div>
+              <a href="https://wa.me/919876543210?text=Hi%2C%20I%20want%20to%20get%20my%20Profile%20Evaluated%20for%20Visa" target="_blank" class="font-bold text-slate-900 hover:text-green-600 underline">Free Academic Profile Evaluation</a>
+              <p class="text-slate-500 text-xs">Bring your marksheets for an honest assessment of your visa options</p>
+            </div>
+            <span class="font-bold text-green-700 whitespace-nowrap">Free</span>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="text-center mt-8">
+      <a href="https://wa.me/919876543210?text=Hi%20Harpreet%20Academy%2C%20I%20want%20to%20speak%20with%20a%20counselor."
+         target="_blank"
+         class="inline-block bg-blue-900 hover:bg-blue-950 text-white font-semibold px-6 py-3 rounded-xl transition">
+        Talk to a Visa Expert on WhatsApp →
+      </a>
+    </div>
+  </section>
+
+  <!-- Call to Action Banner -->
+  <section id="results" class="bg-blue-900 text-white py-14">
+    <div class="max-w-6xl mx-auto px-4 flex flex-col md:flex-row items-center justify-between gap-8">
+      <div class="max-w-xl">
+        <span class="text-blue-300 text-xs font-bold uppercase tracking-wider">Next Intake Admissions Open</span>
+        <h3 class="text-2xl md:text-3xl font-extrabold mt-1">Ready to Score 7+ Bands &amp; Start Your File?</h3>
+        <p class="text-blue-100 text-sm mt-3 leading-relaxed">
+          Don't wait for the next intake deadline. Visit Harpreet Academy in Kapurthala or message us on WhatsApp to book your assessment today.
+        </p>
+      </div>
+      <a href="https://wa.me/919876543210?text=Hi%20Harpreet%20Academy%2C%20I%20want%20to%20register%20for%20upcoming%20batches."
+         target="_blank"
+         class="bg-green-500 hover:bg-green-400 text-slate-950 font-bold px-6 py-3.5 rounded-xl whitespace-nowrap transition">
+        Register on WhatsApp
+      </a>
+    </div>
+  </section>
+
+  <!-- Location & Footer -->
+  <footer id="contact" class="bg-white border-t border-slate-200 py-12">
+    <div class="max-w-6xl mx-auto px-4 grid md:grid-cols-2 gap-8 items-center">
+      <div>
+        <h4 class="text-xl font-extrabold text-slate-900">Harpreet Academy</h4>
+        <p class="text-sm text-slate-600 mt-2">
+          Kapurthala, Punjab • IELTS &amp; Study Visa Consultants
+        </p>
+        <p class="text-sm text-slate-600 mt-1">
+          Open Monday to Saturday: 9:00 AM – 6:00 PM
+        </p>
+        <div class="mt-4 flex gap-3">
+          <a href="https://www.google.com/maps/search/?api=1&query=Harpreet+Academy+IELTS+Kapurthala"
+             target="_blank"
+             class="text-sm font-semibold text-blue-900 underline">
+            Open in Google Maps →
+          </a>
+        </div>
+      </div>
+      <div class="bg-slate-50 p-5 rounded-2xl border border-slate-200 text-sm text-slate-600">
+        <p class="font-bold text-slate-900">Why Digital Presence Matters for Consultancies</p>
+        <p class="mt-1">Students can instantly check courses, review band requirements, and message your counselors directly from their smartphones.</p>
+      </div>
+    </div>
+    <p class="text-center text-xs text-slate-400 mt-10">© 2026 Harpreet Academy. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
